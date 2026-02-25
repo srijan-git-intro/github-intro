@@ -4,4 +4,4 @@ This script prints the current date.
 
 ### How to Run
 ```bash
-bash script.sh
+bash repo_script-1.sh
